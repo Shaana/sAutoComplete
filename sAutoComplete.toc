@@ -1,0 +1,9 @@
+## Interface: 40300
+## Title: sAutoComplete
+## Notes: pre test for the final share console
+## Author: Share
+## Version: 0.1 beta
+## RequiredDeps: Ace3
+## X-Embeds: Ace3
+
+sAutoComplete.lua
